@@ -12,6 +12,7 @@ what it can do:
 
 todo:
 1. adapt to discord as a bot
-2. reading list/history (simple)
-3. random but with blacklist (how???)
-4. user preferences (how???)
+2. mOdUlAr PrOgRaMmInG
+3. reading list/history (simple)
+4. random but with blacklist (how???)
+5. user preferences (how???)
