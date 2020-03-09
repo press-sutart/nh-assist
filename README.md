@@ -1,0 +1,17 @@
+# nh-assist
+for men of culture
+
+good stuff
+
+what it can do:
+1. open a doujin directly
+2. preview a doujin (see tags)
+3. get a random doujin (***doesn't work with blacklist)
+4. list (search) doujins and sort by upload time or popularity
+5. customize the assistant (blacklist)
+
+todo:
+1. adapt to discord as a bot
+2. reading list/history (simple)
+3. random but with blacklist (how???)
+4. user preferences (how???)
